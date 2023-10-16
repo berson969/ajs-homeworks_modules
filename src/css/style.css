@@ -1,0 +1,17 @@
+body {
+    background-color: #999;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0;
+}
+
+span {
+    margin: 10px auto;
+    border: 3px solid blue;
+    padding: 50px;
+    font-size: 30px;
+    color: blue;
+    text-transform: uppercase;
+}
